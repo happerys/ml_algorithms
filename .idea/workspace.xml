@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886b092d-759a-45b5-a8f0-750a1ae09b5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Naive Bayes/Naive Bayes Algorithm.ipynb" afterPath="$PROJECT_DIR$/Naive Bayes/Naive Bayes Algorithm.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Naive Bayes/naive_bayes2.py" afterPath="$PROJECT_DIR$/Naive Bayes/naive_bayes2.py" />
-    </list>
+    <list default="true" id="886b092d-759a-45b5-a8f0-750a1ae09b5d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -277,12 +272,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516780618741</updated>
-      <workItem from="1516780620713" duration="19065000" />
+      <workItem from="1516780620713" duration="19183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19065000" />
+    <option name="totallyTimeSpent" value="19183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-293" y="-1080" width="1920" height="1080" extended-state="0" />
